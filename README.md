@@ -23,7 +23,7 @@ This project is to create a prototype REST API in python to support the product 
   
 # API Information
 
-/ Request Method | Endpoints | Description |
+| Request Method | Endpoints | Description |
 | ------ | ------ | ------ |
 | GET | /api/v1/questions/ | Display all questions in a list |
 | GET | /api/v1/questions/<question_id>/ | Display detailed information of specific question |
